@@ -1,0 +1,3 @@
+Sorry for the resubmit the assignment in same version, cause my laptop was crashed by disk 0E ERROR, all the improved assignment data in my local was ruined, for now what I submit was the backup of the last submission.
+I work for fix it from last saturday, day to night, I search, I do any things I can do, such as using winpe to start the laptop, but in the Winpe system I can't see the disk in my laptop, it drops and hardware disk ruined, yesterday I send my laptop to the store and they said it acturally broken, and they will send it to MSI to repair it. 
+I truly hope that you're able to see where I'm coming form, HOPE YOU CAN UNDERSTAND.
